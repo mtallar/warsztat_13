@@ -24,10 +24,12 @@ paragraf 3
 	- dwa
 - trzy
 
+```
 
 	<html>
 		<head>
 			<title>Test</title>
 		<head>
+```
 
 ![Alt text](https://github.com/mtallar/warsztat_13/blob/master/blobfish.jpg)

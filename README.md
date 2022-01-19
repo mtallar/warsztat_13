@@ -30,4 +30,4 @@ paragraf 3
 			<title>Test</title>
 		<head>
 
-![Alt text](relative/path/to/blobfish.jpg?raw=true "Title")
+![Alt text](https://github.com/mtallar/warsztat_13/blob/master/blobfish.jpg)
